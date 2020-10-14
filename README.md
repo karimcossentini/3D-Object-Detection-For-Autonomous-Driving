@@ -16,7 +16,7 @@ The goal of the first part of this project is to detect objects from a number of
 Pre-trained weights can be obtained at https://drive.google.com/open?id=1qvv5j59Vx3rg9GZCYW1WwlvQxWg4aPlL
 # 3D-DETECTION
 This work constitutes roughly 50% of the MSc thesis:
-- Automotive 3D Object Detection Without Target Domain Annotations [pdf] [slides]
+- Automotive 3D Object Detection Without Target Domain Annotations
 - Fredrik K. Gustafsson and Erik Linder-Norén
 - Master of Science Thesis in Electrical Engineering, Linköping University, 2018
 # Run pretrained Image-Only model on KITTI val:
