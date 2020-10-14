@@ -20,11 +20,15 @@ This work constitutes roughly 50% of the MSc thesis:
 Image-Only is a model constructed with pretrained Resnet34 
 Running the inference Notebook will create the file 3DOD_thesis/training_logs/model_Image-Only_eval_test/eval_dict_test.pkl, containing predicted 3Dbbox parameters which can be used for visualization.
 Pre-trained weights are located in 3DOD_thesis/Image-Only/eval_imgnet_test.py
+# Result:
+
+
+
 # References:
-https://github.com/eriklindernoren/PyTorch-YOLOv3
-https://github.com/ssaru/convert2Yolo
-https://github.com/BobLiu20/YOLOv3_PyTorch
-https://github.com/packyan/PyTorch-YOLOv3-kitti
-https://github.com/fregu856/3DOD_thesis
+-https://github.com/eriklindernoren/PyTorch-YOLOv3
+-https://github.com/ssaru/convert2Yolo
+-https://github.com/BobLiu20/YOLOv3_PyTorch
+-https://github.com/packyan/PyTorch-YOLOv3-kitti
+-https://github.com/fregu856/3DOD_thesis
 
 
