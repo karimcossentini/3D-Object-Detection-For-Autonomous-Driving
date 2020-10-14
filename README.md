@@ -20,7 +20,7 @@ This work constitutes roughly 50% of the MSc thesis:
 Image-Only is a model constructed with pretrained Resnet34 
 Running the inference Notebook will create the file 3DOD_thesis/training_logs/model_Image-Only_eval_test/eval_dict_test.pkl, containing predicted 3Dbbox parameters which can be used for visualization.
 Pre-trained weights are located in 3DOD_thesis/Image-Only/eval_imgnet_test.py
-# Result:
+# Results:
 Feel free to put your own test images here. The results are saved in /final directory. Some inference results are shown below.
 ******
 ![alt text](./Inference-results/000000.png)
