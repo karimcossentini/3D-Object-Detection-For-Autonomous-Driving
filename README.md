@@ -21,9 +21,15 @@ Image-Only is a model constructed with pretrained Resnet34
 Running the inference Notebook will create the file 3DOD_thesis/training_logs/model_Image-Only_eval_test/eval_dict_test.pkl, containing predicted 3Dbbox parameters which can be used for visualization.
 Pre-trained weights are located in 3DOD_thesis/Image-Only/eval_imgnet_test.py
 # Result:
-![alt text](./000000.png)
-![alt text](./000003.png)
-![alt text](./000007.png)
+Feel free to put your own test images here. The results are saved in /final directory. Some inference results are shown below.
+![alt text](./Inference-results/000000.png)
+![alt text](./Inference-results/000003.png)
+![alt text](./Inference-results/000007.png)
+![alt text](./Inference-results/0000086.png)
+![alt text](./Inference-results/0000083.png)
+![alt text](./Inference-results/00000141.png)
+![alt text](./Inference-results/00000158.png)
+
 # References:
 - https://github.com/eriklindernoren/PyTorch-YOLOv3
 - https://github.com/ssaru/convert2Yolo
