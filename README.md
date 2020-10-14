@@ -27,9 +27,9 @@ Feel free to put your own test images here. The results are saved in /final dire
 ![alt text](./Inference-results/000003.png)
 ![alt text](./Inference-results/000007.png)
 ![alt text](./Inference-results/0000086.png)
-![alt text](./Inference-results/0000083.png)
-![alt text](./Inference-results/00000141.png)
-![alt text](./Inference-results/00000158.png)
+![alt text](./Inference-results/000083.png)
+![alt text](./Inference-results/000141.png)
+![alt text](./Inference-results/000158.png)
 
 # References:
 - https://github.com/eriklindernoren/PyTorch-YOLOv3
