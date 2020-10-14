@@ -22,6 +22,7 @@ Running the inference Notebook will create the file 3DOD_thesis/training_logs/mo
 Pre-trained weights are located in 3DOD_thesis/Image-Only/eval_imgnet_test.py
 # Result:
 Feel free to put your own test images here. The results are saved in /final directory. Some inference results are shown below.
+******
 ![alt text](./Inference-results/000000.png)
 ![alt text](./Inference-results/000003.png)
 ![alt text](./Inference-results/000007.png)
