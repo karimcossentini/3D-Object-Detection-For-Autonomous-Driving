@@ -13,9 +13,9 @@ The goal of the first part of this project is to detect objects from a number of
 Pre-trained weights can be obtained at https://drive.google.com/open?id=1qvv5j59Vx3rg9GZCYW1WwlvQxWg4aPlL
 # 3D-DETECTION
 This work constitutes roughly 50% of the MSc thesis:
--Automotive 3D Object Detection Without Target Domain Annotations [pdf] [slides]
--Fredrik K. Gustafsson and Erik Linder-Norén
--Master of Science Thesis in Electrical Engineering, Linköping University, 2018
+- Automotive 3D Object Detection Without Target Domain Annotations [pdf] [slides]
+- Fredrik K. Gustafsson and Erik Linder-Norén
+- Master of Science Thesis in Electrical Engineering, Linköping University, 2018
 # Run pretrained Image-Only model on KITTI val:
 Image-Only is a model constructed with pretrained Resnet34 
 Running the inference Notebook will create the file 3DOD_thesis/training_logs/model_Image-Only_eval_test/eval_dict_test.pkl, containing predicted 3Dbbox parameters which can be used for visualization.
