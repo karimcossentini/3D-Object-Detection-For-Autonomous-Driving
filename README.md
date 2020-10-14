@@ -7,10 +7,10 @@ The dataset can be downloaded from https://drive.google.com/file/d/1xTbwVPfQ9zlY
 
 Dataset includes:
 
--- Velodyne point clouds 
--- Training labels of object data set
--- camera calibration matrices of object data set
--- Left color images of object data set 
+- Velodyne point clouds 
+- Training labels of object data set
+- camera calibration matrices of object data set
+- Left color images of object data set 
 # 2D-DETECTION
 The goal of the first part of this project is to detect objects from a number of object classes in realistic scenes for the KITTI 2D dataset then we take these detections from a 2D object detector as input 2Dbboxes for a 3D object detection.
 Pre-trained weights can be obtained at https://drive.google.com/open?id=1qvv5j59Vx3rg9GZCYW1WwlvQxWg4aPlL
