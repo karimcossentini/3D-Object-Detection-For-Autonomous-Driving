@@ -19,6 +19,7 @@ This work constitutes roughly 50% of the MSc thesis:
 - Automotive 3D Object Detection Without Target Domain Annotations [PDF](http://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1218149&dswid=-2619) [slides](http://www.fregu856.com/static/msc_thesis_slides.pdf)
 - Fredrik K. Gustafsson and Erik Linder-Norén
 - Master of Science Thesis in Electrical Engineering, Linköping University, 2018
+- 3DOD_thesis repo link : [ 3DOD_thesis ](https://github.com/fregu856/3DOD_thesis#visualization)
 # Run pretrained Image-Only model on KITTI val:
 - Image-Only is a model constructed with pretrained Resnet34 
 - Running the inference Notebook will create the file 3DOD_thesis/training_logs/model_Image-Only_eval_test/eval_dict_test.pkl, containing predicted 3Dbbox parameters which can be used for visualization.
