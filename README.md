@@ -14,6 +14,7 @@ Dataset includes:
 # 2D-DETECTION
 The goal of the first part of this project is to detect objects from a number of object classes in realistic scenes for the KITTI 2D dataset then we take these detections from a 2D object detector as input 2Dbboxes for a 3D object detection.
 Pre-trained weights can be obtained at https://drive.google.com/open?id=1qvv5j59Vx3rg9GZCYW1WwlvQxWg4aPlL
+Pre_trained weights for Yolov5 https://drive.google.com/file/d/1_J5725Pr4cUMX1cKfDRlYY1_uVGQ4Rj6/view?usp=sharing
 # 3D-DETECTION
 This work constitutes roughly 50% of the MSc thesis:
 - Automotive 3D Object Detection Without Target Domain Annotations [PDF](http://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1218149&dswid=-2619) [slides](http://www.fregu856.com/static/msc_thesis_slides.pdf)
